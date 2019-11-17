@@ -1,0 +1,88 @@
+
+
+[
+    {
+        "category": "Tires",
+        "question": "Which of these objects has only 2 tires? ",
+        "answers": [
+            "Bike", "Motorcycle", "Moped", "Voi-Scooter"
+        ],
+        "correct": [0,1,2,3]
+    },
+    {
+        "category": "Math",
+        "question": "What is 5*5?",
+        "answers": [
+            "25", "26", "10", "35"
+        ],
+        "correct": [0]
+
+    },
+    {
+    "category": "IT",
+        "question": "Who is Bill Gates?",
+        "answers": [
+            "A random person", "Founder of Microsoft", "Founder of the keyboard", "The person who invented internet"
+        ],
+        "correct": [1]
+    },
+    {
+        "category": "Schools",
+            "question": "What is Nackademin?",
+            "answers": [
+                "A school", "The swedish nationalteam areana", "A pub located in Stockholm", "The carmodel name on the new Volvo?"
+            ],
+            "correct": [0]
+        },
+        {
+            "category": "Food and drinks",
+                "question": "What is PUB short for?",
+                "answers": [
+                    "Public club", "Public bar", "Public house", "Public Bistro"
+                ],
+                "correct": [1]
+            },
+            {
+                "category": "Animals",
+                    "question": "Which of these animals is related to the cat?",
+                    "answers": [
+                        "Giraffe", "Lion", "Fish", "Tiger"
+                    ],
+                    "correct": [1,3]
+                },
+                {
+                    "category": "Carmodels",
+                        "question": "What carbrand was created in japan?",
+                        "answers": [
+                            "Volvo", "Fiat", "Toyota", "Lexus"
+                        ],
+                        "correct": [2]
+                    },
+                    {
+                        "category": "Animals",
+                            "question": "What animal is called the king of the forest?",
+                            "answers": [
+                                "Moose", "Fish", "Hawk", "Cow"
+                            ],
+                            "correct": [0]
+                        },
+                        {
+                            "category": "Drinks",
+                                "question": "Which of these drinks is a beer?",
+                                "answers": [
+                                    "G&T", "Redbull/Vodka", "Åbro 10,2", "Skinnybitch"
+                                ],
+                                "correct": [2]
+                            },
+                            {
+                                "category": "Capital",
+                                    "question": "What city is the capital of Sweden?",
+                                    "answers": [
+                                        "Stockholm", "Malmö", "Göteborg", "Gotland"
+                                    ],
+                                    "correct": [0]
+                                }
+                
+]
+
+
